@@ -472,7 +472,7 @@ body {
     color: #535458;
   }
   .main_box p {
-    font-size: 1.1rem !important;
+    font-size: 1.4rem !important;
     line-height: 2.4rem;
   }
 }
@@ -632,6 +632,9 @@ body {
 }
 .price_end .accordion-button:focus {
   box-shadow: none !important;
+}
+.price_end .accordian_main .accordion-button {
+  font-size: 1.4rem;
 }
 .price_end .collapsed {
   font-size: 1.1rem;

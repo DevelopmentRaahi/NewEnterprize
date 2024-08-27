@@ -628,7 +628,7 @@ $des_heading_color: #5b72a0;
     }
 
     p {
-      font-size: 1.1rem !important;
+      font-size: 1.4rem !important;
       line-height: 2.4rem;
     }
   }
@@ -858,6 +858,11 @@ $add_cart_color: #4e84c6;
 
     &:focus {
       box-shadow: none !important;
+    }
+  }
+  .accordian_main{
+    .accordion-button{
+      font-size: 1.4rem;
     }
   }
 
